@@ -1,0 +1,21 @@
+Week 3: Exercise Files
+==================
+Dataset: personal_transactions.csv
+Background image: Week 3 Background (JPG)
+
+Power BI Template file: Personal_Finance.pbit
+Budget data file: Budget.csv
+---------------------------------------------------------------
+
+To Use the Power BI Template file:
+============================
+
+1: Open the PBIT (Power BI Template) file in Power BI Desktop.
+
+2: When the file opens, you will be prompted to enter the file path for the personal_transactions.csv file. Copy and paste the full location into the box for "Personal Transactions File Path" (see screenshot below). For example, your file path may be C:\Users\{your username}\Downloads\personal_transactions.csv.
+
+3: Click "Load" to load the data into your data model.
+
+4: When you're done building the report, you can save the file as a normal PBIX file.
+
+D:\Power Bi\Week 3\Data\personal_transactions.csv
