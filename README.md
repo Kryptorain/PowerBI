@@ -1,4 +1,6 @@
 <img src="kryptora.png" width="400"/>
+
+
 # PowerBI
 # 👋 Hi, I'm Kryptora
 A passionate Data Scientist with expertise in Python, Machine Learning, and Data Visualization.
